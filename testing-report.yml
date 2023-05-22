@@ -1,0 +1,41 @@
+---
+- summary: |
+    Проверка смены языка на сайте
+  status: pass
+
+- summary: |
+    Проверка возможности добавить товар в корзину
+  status: pass
+  
+- summary: |
+    Проверка функции полной очистки корзины
+  status: pass
+
+- summary: |
+    Проверка работоспособности кнопки "Continue shopping" в корзине
+  status: pass
+  
+- summary: |
+    Проверка возможности удаления из корзины конкретного товара
+  status: pass
+
+- summary: |
+    Проверка функции оформления заказа
+  status: pass
+  
+- summary: |
+    Проверка строки поиска по каталогу
+  status: pass
+
+- summary: |
+    Проверка фильтра каталога "Category"
+  status: pass
+  
+- summary: |
+    Проверка фильтра каталога "Brand"
+  status: pass
+  
+- summary: |
+    Проверка фильтра каталога "Price"
+  status: pass
+  
