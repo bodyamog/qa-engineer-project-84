@@ -60,7 +60,7 @@ test-cases:
     Проверка на совместимость сайта с последней версией браузера Opera
   status: pass 
 
-  bugreports:
+bugreports:
 - summary: |
     Корзина пользователя не сохряняется в сессии браузера
   environment: |
