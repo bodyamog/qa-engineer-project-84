@@ -6,7 +6,7 @@
     OC Windows 10 Pro 21H2
   steps-to-reproduce: |
     - Зайти на главную страницу сайта https://hexlet-products-store.vercel.app/
-	- Открыть Devtools
+    - Открыть Devtools
     - Запустить Toggle device toolbar
     - Выставить разрешение 390x844
   expected-result: |
@@ -21,7 +21,7 @@
     OC Windows 10 Pro 21H2
   steps-to-reproduce: |
     - Зайти на главную страницу сайта https://hexlet-products-store.vercel.app/
-	- Добавить любой товар в корзину
+    - Добавить любой товар в корзину
     - Закрыть вкладку сайта
     - Открыть сайт и зайти в корзину
   expected-result: |
